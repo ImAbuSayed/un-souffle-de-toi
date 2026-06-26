@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-souffle-de-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Un Souffle De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-souffle-de-toi/) |
+| **Get License** | [Get a Licensing Quote for Un Souffle De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-souffle-de-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, ton parfum, baby I'm falling
+> Un souffle de toi sur ma peau, Paris is calling
+> Sous les néons violets, c'est l'évidence
+> Just you and me ce soir, on mène la danse
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
