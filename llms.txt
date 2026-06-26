@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-souffle-de-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Un Souffle De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-souffle-de-toi/) |
+| **Get License** | [Get License For Un Souffle De Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-souffle-de-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4391)
 
 ---
 
